@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Recycler</string>
+
+    <string name="error_msg">Sorry! Couldn\'t fetch data.</string>
+    <string name="btn_retry">Retry</string>
+    <string name="error_msg_no_internet">Not connected to internet</string>
+    <string name="error_msg_timeout">The server took too long to respond</string>
+    <string name="error_msg_unknown">An unexpected error occurred</string>
+    <string name="tap_to_reload">Tap to reload</string>
+    <string name="my_api_key">ec01f8c2eb6ac402f2ca026dc2d9b8fd</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="sorting_date">Date</string>
+    <string name="sorting_shares">Shares</string>
+    <string name="sorting_views">Views</string>
+    <string name="sorting_likes">Likes</string>
+    <string name="sorting_first_name">First Name</string>
+    <string name="sorting_last_name">Last Name</string>
+    <string name="hours_ago">Hours ago</string>
+    <string name="days_ago">Days ago</string>
+    <string name="day_ago">Day ago</string>
+    <string name="hour_ago">Hour ago</string>
+    <string name="just_now">Just now</string>
+    <string name="minutes_ago">Minutes ago</string>
+</resources>
